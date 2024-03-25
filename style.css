@@ -8,12 +8,12 @@
 }
 
 body{
-    background: #00e600;
+    background: #0004e6;
 }
 
 ::selection{
     color: #fff;
-    background: #33ff33;
+    background: #291196;
 }
 
 .start_btn,
@@ -40,7 +40,7 @@ body{
 .start_btn button{
     font-size: 25px;
     font-weight: 500;
-    color: #33ff33;
+    color: #e71c8c;
     padding: 15px 30px;
     outline: none;
     border: none;
@@ -82,7 +82,7 @@ body{
 
 .info_box .info-list .info span{
     font-weight: 600;
-    color: #33ff33;
+    color: #8a2f05;
 }
 .info_box .buttons{
     height: 60px;
@@ -103,7 +103,7 @@ body{
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #33ff33;
+    border: 1px solid #1a921a;
     transition: all 0.3s ease;
 }
 
@@ -138,7 +138,7 @@ body{
 .quiz_box header .timer{
     color: #000000;
     background: #b3ffb3;
-    border: 1px solid #80ff80;
+    border: 1px solid #8231a1;
     height: 45px;
     padding: 0 8px;
     border-radius: 5px;
@@ -173,7 +173,7 @@ body{
     bottom: 0px;
     left: 0px;
     height: 3px;
-    background: #00ff99;
+    background: #630e63;
 }
 
 section{

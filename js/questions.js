@@ -65,6 +65,7 @@ let questions = [
       "None of the aforementioned"
     ]
   },
+  {
     numb: 7,
     question: "Another name for raceway is?",
     answer: "Flow-Through System",
