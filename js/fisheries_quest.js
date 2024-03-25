@@ -12,46 +12,101 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "The type of mouth possessed by most catfish is?",
+    answer: "Inferior",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Terminal",
+      "Protrusible",
+      "Superior",
+      "Inferior"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "A gravid fish is a fish that?",
+    answer: "Has a lot of eggs",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Has a lot of eggs",
+      "Has spawned already",
+      "retarded growth",
+      "Fattening"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "One the following is not an importance of fish/fisheries",
+    answer: "Apt culture",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Aesthetics",
+      "Apt culture",
+      "Medicine",
+      "Food"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Another name for fish tail is",
+    answer: "Caudal",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Dorsal fin",
+      "Pectoral fin",
+      "Caudal fin",
+      "Pelvic fin"
     ]
   },
+ {
+    numb: 6,
+    question: "What is the order after hatching?",
+    answer: "Fries-fingerlings-juveniles-broodstock",
+    options: [
+      "Fries-fingerlings-juveniles-broodstock",
+      "Fingerlings-fries-juveniles-broodstocks",
+      "Broodstocks-fries-fingerlings-juveniles",
+      "None of the aforementioned"
+    ]
+  },
+    numb: 7,
+    question: "Another name for raceway is?",
+    answer: "Flow-Through System",
+    options: [
+      "Flow-Through System",
+      "Tanks",
+      "Reservoir",
+      "Spillway"
+    ]
+  },
+ {
+    numb: 8,
+    question: "The channel constructed along an embankment aimed at taking excess water away from the pond is called?",
+    answer: "Spillway",
+    options: [
+      "dyke",
+      "Levee",
+      "Monk",
+      "Spillway"
+    ]
+  },
+ {
+    numb: 9,
+    question: "_______is the administration of drugs to fish, not for corrective reasons but for preservative reasons",
+    answer: "Prophylaxis",
+    options: [
+      "Prophylaxis",
+      "Antemin",
+      "Cure",
+      "Diagnosis"
+    ]
+  },
+ {
+    numb: 10,
+    question: "Anorexia means _____",
+    answer: "Severe loss of appetite",
+    options: [
+      "Diagnosis",
+      "Severe loss of appetite",
+      "Constipation",
+      "Necrosis"
+    ]
+  },
+ {
 ];
