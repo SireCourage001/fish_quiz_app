@@ -46,7 +46,7 @@ let questions = [
     {
     numb: 5,
     question: "Another name for fish tail is",
-    answer: "Caudal",
+    answer: "Caudal fin",
     options: [
       "Dorsal fin",
       "Pectoral fin",
@@ -100,7 +100,7 @@ let questions = [
   },
  {
     numb: 10,
-    question: "Anorexia means _____",
+    question: "Anorexia means?",
     answer: "Severe loss of appetite",
     options: [
       "Diagnosis",
@@ -109,5 +109,4 @@ let questions = [
       "Necrosis"
     ]
   },
- {
 ];
