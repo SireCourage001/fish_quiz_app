@@ -123,7 +123,7 @@ let questions = [
 {
     numb: 12,
     question: "Oxygen starvation leads to a condition called?",
-    answer: "Anorexia",
+    answer: "Anoxia",
     options: [
       "Anorexia",
       "Necrosis",
@@ -133,7 +133,7 @@ let questions = [
   },
 {
     numb: 13,
-    question: "Oyster belongs to the class?",
+    question: "Oyster belongs to the class called?",
     answer: "Mollusca",
     options: [
       "Pisces",
@@ -144,7 +144,7 @@ let questions = [
   },
 {
     numb: 14,
-    question: "An exmaple of bony fish is _____",
+    question: "An example of bony fish is _____",
     answer: "Tilapia",
     options: [
       "Ray",
@@ -321,7 +321,7 @@ let questions = [
 {
     numb: 30,
     question: "The importance  of monk is that it _____",
-    answer: "controls the level of pond water",
+    answer: "Controls the level of pond water",
     options: [
       "Prays for fish",
       "Facilitate spawning",
