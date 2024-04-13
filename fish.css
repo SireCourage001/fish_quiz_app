@@ -8,12 +8,14 @@
 }
 
 body{
-    background: #034e10;
+    background-image: url("fish.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 ::selection{
     color: #fff;
-    background: #034e10;
+    background-image: url("fish.jpg");
 }
 
 .start_btn,
